@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/8b6183c3-735d-4dc9-85a2-5d4946046983
+
 STEP 1 — Create the repository
 mkdir -p ~/autonomous-construction-monitoring-drone
 
